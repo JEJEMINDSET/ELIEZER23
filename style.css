@@ -1,0 +1,32 @@
+body{
+    background-image: url("images.jpeg");
+    background-size: cover;
+    text-align: center;
+
+}
+ul{
+    margin-left:80%;
+}
+ul li:hover{
+    color:red;
+}
+li{
+    color:rgba(86, 14, 219, 0.815);
+    display: inline-block;
+    margin: 2%;
+}
+h1{
+    color:yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+p{
+    color:yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
+img{
+    border-radius: 50%;
+}
+
+   
